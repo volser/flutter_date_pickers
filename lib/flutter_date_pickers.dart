@@ -13,3 +13,5 @@ export 'package:flutter_date_pickers/src/unselectable_period_error.dart';
 
 export 'package:flutter_date_pickers/src/day_based_changable_picker.dart';
 export 'package:flutter_date_pickers/src/i_selectable_picker.dart';
+export 'package:flutter_date_pickers/src/day_picker_selection.dart';
+export 'package:flutter_date_pickers/src/typedefs.dart';
